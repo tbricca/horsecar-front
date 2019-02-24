@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Bolt Bus",
+        "start": "Seattle",
+        "end":"Portland",
+        "transit-type": "Bus",
+        "cost": 25,
+        "amenities": "Wifi,Reserved Seat, Luggage Storage"
+    },
+    {
+        "id": 3,
+        "name": "Amtrak",
+        "start": "Seattle",
+        "end":"Portland",
+        "transit-type": "Train",
+        "cost": 35,
+        "amenities": "Wifi,Reserved Seat, Luggage Storage, Food & Beverage, Stunning Views"
+    },
+    {
+        "id": 3,
+        "name": "Greyhound",
+        "start": "Seattle",
+        "end":"Portland",
+        "transit-type": "Bus",
+        "cost": 20,
+        "amenities": "Wifi,Reserved Seat, Luggage Storage"
+    }
+]
